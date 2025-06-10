@@ -1,3 +1,11 @@
+---
+title: Day6-7_哈希表
+tags: [LeetCode, 哈希表]
+categories: [Notes]
+slug: 哈希表
+publish: true
+---
+
 # 基础
 [py_hash](_py/_py_hash.md)
 # 题目

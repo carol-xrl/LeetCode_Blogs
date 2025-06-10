@@ -1,3 +1,11 @@
+---
+title: Day3-4_链表
+tags: [LeetCode, 链表]
+categories: [Notes]
+slug: 链表
+publish: true
+---
+
 # 基础
 [py_list](_py/_py_list.md)
 [py_class](_py/_py_class.md)

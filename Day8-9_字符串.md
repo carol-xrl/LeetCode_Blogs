@@ -1,3 +1,11 @@
+---
+title: Day8-字符串
+tags: [LeetCode, 字符串]
+categories: [Notes]
+slug: 字符串
+publish: true
+---
+
 # 基础
 [py_string](_py/_py_string.md)
 # 题目

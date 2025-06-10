@@ -1,10 +1,11 @@
 ---
-title: 数组
+title: Day1-2_数组
 tags: [LeetCode, 数组]
 categories: [Notes]
 slug: 数组
 publish: true
 ---
+
 # 基础
 【定义】存放在**连续内存空间**上的**相同类型**数据的集合。
 【创建与寻址方法】

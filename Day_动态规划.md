@@ -1,10 +1,11 @@
 ---
-title: 动态规划
+title: Day_动态规划
 tags: [LeetCode, 动态规划]
 categories: [Notes]
 slug: 动态规划
 publish: true
 ---
+
 # 理论
 
 # 题目
